@@ -66,6 +66,10 @@ tool.
 See `<status-table.csv>`__ for currently supported parts and the corresponding
 options for arachne-pnr (place and route) and icetime (timing analysis).
 
+.. csv-table::
+   :file: status-table.csv
+   :header-rows: 1
+
 Current work focuses on further improving our timing analysis flow.
 
 How do I use the Fully Open Source iCE40 Flow?
